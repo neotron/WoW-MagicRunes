@@ -1,5 +1,5 @@
-## Interface: 100205
-## Interface-Wrath: 30400
+## Interface: 100206
+## Interface-Wrath: 30403
 ## Title: Magic Runes
 ## Notes: Deathknight Rune Display
 ## Author: NeoTron
